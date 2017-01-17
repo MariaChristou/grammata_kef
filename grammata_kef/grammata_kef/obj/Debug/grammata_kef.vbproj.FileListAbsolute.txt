@@ -1,0 +1,11 @@
+C:\Users\Ria\Desktop\programming\grammata_kef\grammata_kef\bin\Debug\grammata_kef.exe.config
+C:\Users\Ria\Desktop\programming\grammata_kef\grammata_kef\obj\Debug\grammata_kef.vbprojResolveAssemblyReference.cache
+C:\Users\Ria\Desktop\programming\grammata_kef\grammata_kef\obj\Debug\grammata_kef.Form1.resources
+C:\Users\Ria\Desktop\programming\grammata_kef\grammata_kef\obj\Debug\grammata_kef.Resources.resources
+C:\Users\Ria\Desktop\programming\grammata_kef\grammata_kef\obj\Debug\grammata_kef.vbproj.GenerateResource.Cache
+C:\Users\Ria\Desktop\programming\grammata_kef\grammata_kef\obj\Debug\grammata_kef.xml
+C:\Users\Ria\Desktop\programming\grammata_kef\grammata_kef\bin\Debug\grammata_kef.exe
+C:\Users\Ria\Desktop\programming\grammata_kef\grammata_kef\bin\Debug\grammata_kef.pdb
+C:\Users\Ria\Desktop\programming\grammata_kef\grammata_kef\bin\Debug\grammata_kef.xml
+C:\Users\Ria\Desktop\programming\grammata_kef\grammata_kef\obj\Debug\grammata_kef.exe
+C:\Users\Ria\Desktop\programming\grammata_kef\grammata_kef\obj\Debug\grammata_kef.pdb
